@@ -14,6 +14,7 @@ return {
   { import = "astrocommunity.pack.dart" },
   { import = "astrocommunity.pack.html-css" },
   { import = "astrocommunity.pack.json" },
+  { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.pack.markdown" },
   { import = "astrocommunity.media.codesnap-nvim" },
   { import = "astrocommunity.utility.vim-fetch" },
