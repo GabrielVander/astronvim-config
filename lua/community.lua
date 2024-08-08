@@ -17,6 +17,7 @@ return {
   { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.pack.markdown" },
   { import = "astrocommunity.pack.bash" },
+  { import = "astrocommunity.pack.scala" },
   { import = "astrocommunity.media.codesnap-nvim" },
   { import = "astrocommunity.utility.vim-fetch" },
 }
